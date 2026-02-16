@@ -88,6 +88,14 @@ The final stage was the creation of a two-page **Interactive Discovery Hub** wit
 ├── Dashboard/          # Power BI (.pbix) Interactive Project
 └── Screenshots/        # Visual documentation for the README
 ```
+---
+
+## 📂 Data Source
+The dataset used in this project is sourced from **Kaggle**:
+* **Dataset Name:** [Video Game Sales 2024](https://www.kaggle.com/datasets/asaniczka/video-game-sales-2024/data)
+* **Author:** [asaniczka](https://www.kaggle.com/asaniczka)
+* **Description:** This dataset contains comprehensive records of video game sales, ratings, and release dates up to 2024.
+
 
 ---
 ## 👨‍💻 Author
