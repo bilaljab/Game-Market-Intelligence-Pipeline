@@ -67,13 +67,13 @@ The final stage was the creation of a two-page **Interactive Discovery Hub** wit
 
 ## 📸 Dashboard Preview
 <p align="center">
-  <img src="Screenshots/summary.png" width="900" alt="Market Summary">
+  <img src="Screenshots/Summary.png" width="900" alt="Market Summary">
   <br>
   <i>Figure 1: Executive Market Summary</i>
 </p>
 
 <p align="center">
-  <img src="Screenshots/details.png" width="900" alt="Deep Dive Analytics">
+  <img src="Screenshots/Details.png" width="900" alt="Deep Dive Analytics">
   <br>
   <i>Figure 2: Performance Matrix & Quality Correlation</i>
 </p>
